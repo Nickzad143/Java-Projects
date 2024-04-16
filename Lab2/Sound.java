@@ -1,0 +1,8 @@
+class Sound {
+	public static void main(String[] args) {
+		double distance;
+		 distance = 7.2 * 1100;
+		 System.out.println(" The lightening i sapproximately " + distance + " feet away");
+		 
+	}
+}
